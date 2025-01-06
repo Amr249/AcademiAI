@@ -4,12 +4,6 @@ AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and 
 
 ---
 
-<video width="640" height="480" controls>
-  <source src="https://youtu.be/Uc78DAk4kdw" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-## Features
-
 - **Chat with PDFs**: Interact with multiple PDFs at once using AI. Upload your research papers, textbooks, or lecture notes, and ask questions to get instant, context-aware answers.
 - **Custom Summarization**: Summarize content from PDFs, blogs, or YouTube videos with customizable prompts and settings.
 - **Quiz and Flashcards Generator**: Transform your study material into interactive quizzes and flashcards.
