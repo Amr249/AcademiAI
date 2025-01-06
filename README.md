@@ -41,3 +41,63 @@ AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and 
 6. **Run the Streamlit app:**:
    ```bash
    streamlit run Home_Page.py
+
+---
+
+## Usage
+**Home Page:** The home page provides an overview of the available tools and features. Navigate through the different sections to explore the functionalities.
+
+**Chat with PDFs:** Upload your PDFs and start interacting with the AI to get instant answers to your questions.
+
+**Custom Summarization:** Upload a PDF, blog URL, or YouTube video link, and generate summaries with customizable prompts.
+
+**Quiz and Flashcards Generator:** Upload a document and generate quizzes or flashcards based on its content.
+
+**Text to Presentation:** Enter a topic and generate a PowerPoint presentation with AI-generated content and images.
+
+**Paper to Audio-Book:** Upload a PDF and convert it into an audiobook with a custom cover image.
+
+---
+
+## Dependencies
+The project relies on the following Python libraries:
+
+**streamlit:** For building the web interface.
+
+**openai:** For accessing GPT models.
+
+**PyPDF2:** For extracting text from PDF files.
+
+**langchain:** For text processing and summarization.
+
+**faiss-cpu:** For vector storage and retrieval.
+
+**python-dotenv:** For loading environment variables.
+
+**gtts:** For text-to-speech conversion.
+
+**pptx:** For creating PowerPoint presentations.
+
+**requests:** For making HTTP requests.
+
+**beautifulsoup4:** For parsing HTML content.
+
+**youtube-transcript-api:** For fetching YouTube transcripts.
+
+---
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+OpenAI for providing the GPT models.
+
+Streamlit for the web framework.
+
+Unsplash for providing free images for presentations.
+
+### Contact
+For any questions or feedback, please contact amrogamaraldwlah@gmail.com .
