@@ -4,7 +4,7 @@ AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and 
 
 ---
 
-![AcademiAI Demo](ezgif-1-6e6f8357d5.gif)
+![AcademiAI Demo](https://raw.githubusercontent.com/amr249/amr249/main/ezgif-1-6e6f8357d5.gif)
 
 ---
 
