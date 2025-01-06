@@ -4,7 +4,9 @@ AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and 
 
 ---
 ## AcademiAI Demo
-You can watch a video demo of the project in the [demo folder](demo/). The videos shows all the pages included in the project.
+- You can watch a video demo of the project in the [demo folder](demo/). The videos shows all the pages included in the project.
+- Also if you want to take a look at the generated materials by AcademiAI you will find them in these folders
+- [demo folder](demo/)
 
 ---
 ## Features
