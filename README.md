@@ -26,12 +26,12 @@ AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and 
    ```bash
    python -m venv venv
 4. **Activate the virtual environment:**:
-     *On Windows:*
       ```bash
-      venv\Scripts\activate 
-      *On Windows:*
-      ```bash
+      On Windows:
       venv\Scripts\activate
+
+      On macOS/Linux:
+      source venv/bin/activate
 4. **Install the dependencies:**:
    ```bash
    pip install -r requirements.txt
