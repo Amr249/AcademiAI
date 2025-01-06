@@ -5,10 +5,10 @@ AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and 
 ---
 ## AcademiAI Demo
 - You can watch a video demo of the project in the [demo folder](demo/). The videos shows all the pages included in the project.
-- Also if you want to take a look at the generated materials by AcademiAI you will find them in these folders
--[Generated_Audio-Books folder](Generated_Audio-Books/)
--[Generated_Cover_Art_Images folder](Generated_Cover_Art_Images/)
--[Generated_PPT folder](generated_ppt/)
+- Also if you want to take a look at the generated materials by AcademiAI you will find them in these folders:
+   1. [Generated_Audio-Books folder](Generated_Audio-Books/)
+   2. [Generated_Cover_Art_Images folder](Generated_Cover_Art_Images/)
+   3. [Generated_PPT folder](generated_ppt/)
 
 ---
 ## Features
