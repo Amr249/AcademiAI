@@ -18,10 +18,10 @@ AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and 
 
 1. **Clone the AcaGenie repository**:
    ```bash
-   git clone https://github.com/yourusername/AcaGenie.git
+   git clone https://github.com/Amr249/AcademiAI.git
 2. **Navigate to the project directory:**:
    ```bash
-   cd AcaGenie
+   cd AcademiAI
 3. **Create a virtual environment:**:
    ```bash
    python -m venv venv
