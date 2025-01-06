@@ -3,6 +3,8 @@
 AcaGenie is an AI-powered academic assistant designed to simplify, enhance, and revolutionize the academic and research experience for students, professors, and researchers. The platform offers a suite of tools that help users save time, streamline their work, and focus on learning, teaching, and discovery. The project is built using **Streamlit** for the frontend and integrates various AI models, including **OpenAI's GPT-4**, for backend processing.
 
 ---
+![Uploading Recording 2025-01-06 221827.gif…]()
+
 
 - **Chat with PDFs**: Interact with multiple PDFs at once using AI. Upload your research papers, textbooks, or lecture notes, and ask questions to get instant, context-aware answers.
 - **Custom Summarization**: Summarize content from PDFs, blogs, or YouTube videos with customizable prompts and settings.
